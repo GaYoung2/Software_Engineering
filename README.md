@@ -4,7 +4,7 @@
   > 실시간 영상을 통한 좌석 확인 서비스
 
 | Participant | Rules | Skills | Traning needs |
-|---|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |<span style="color:blue">강승환</span>| Implementor | `Python, C, JAVA, Android, Git` | UML, Communication with socket |
 |<span style="color:blue">김가영</span>| Team Leader, Document Editor | `Python, C, JAVA, Git` | UML, Database |
 |<span style="color:blue">서우빈</span>| Implementor | `Python, C, JAVA, Android, Git` | UML, RL |
