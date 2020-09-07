@@ -1,8 +1,8 @@
-# Software Engineering
+# 🛠️Software Engineering🧰
 
-* ## 주제
-  > 실시간 영상을 통한 좌석 확인 서비스
-
+## 📖주제
+> 실시간 영상을 통한 좌석 확인 서비스
+## 🤝역할 분담
 | Participant | Rules | Skills | Traning needs |
 |:---:|:---:|:---:|:---:|
 |<span style="color:blue">강승환</span>| Implementor | `Python, C, JAVA, Android, Git` | UML, Communication with socket |
