@@ -10,7 +10,7 @@
 ## 🤝역할 분담
 | Participant | Roles | Skills | Traning needs |
 |:---:|:---:|:---:|:---:|
-|<span style="color:blue">강승환</span>| Implementor | Programing: `Python, C, JAVA, Android` | UML, Communication with socket |
-|<span style="color:blue">김가영</span>| Team Leader, Document Editor | Programing: `Python, C, JAVA` | UML, Database |
-|<span style="color:blue">서우빈</span>| Implementor | Programing: `Python, C, JAVA, Android` | UML, Machine Learning |
-|<span style="color:blue">전종원</span>| Implementor, Web Designer | Programing: `Python, C, php`<br/>Framework: `Django` | UML, JavaScript |
+|강승환| backend, ML developer | Programing: `Python, C, JAVA, Android`<br/>Framework: `Django | UML, tensorflow |
+|김가영| Team Leader, Document Editor, ML developer | Programing: `Python, C, JAVA`<br/>socket programming | UML, tensorflow |
+|서우빈| communication developer, ML developer | Programing: `Python, C, JAVA, Android` <br/>socket programming <br/>Framework: `Django | UML, tensorflow |
+|전종원| frontend, Database Administrator, configuration manager| Programing: `Python, C, php, Html` <br/>SQLite | UML, JavaScript, CSS |
