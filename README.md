@@ -21,7 +21,34 @@
 * 좌석의 배치나 수가 변경되었을때 웹페이지에 빠른 업데이트가 필요합니다.(업데이트 혹은 버전관리)  
 * 가게 내부에 좌석을 확인할 CCTV가 있어야 합니다.(추가적인 하드웨어)  
   
-> ## Use case Diagram  
+## Use case Diagram  
+![캡처](https://user-images.githubusercontent.com/54730375/93861515-98df8e00-fcfb-11ea-8dea-46482d25d029.PNG)  
+  
+## Use case Description  
+#### Use case name:  
+>showEmptySeat  
+  
+#### Participating actors:  
+>Customer  
+  
+#### Flow of events: 
+>1. Customer 가 원하는 시설을 클릭하여 "showEmptySeat"기능을 실행한다.  
+>>>>>> 2. STS는 해당 시설의 가장 최신 좌석 정보를 처리한다.  
+>>>>>> 3. STS는 처리된 정보를 UI로 나타내어 웹 페이지에 송출한다.   	
+>4. Customer는 송출된 웹 페이지로부터 좌석현황정보를 얻는다.  
+  
+#### Entry condition:  
+>1. 해당 시설이 영업중이어야 한다.  
+  
+#### Exit condition:  
+>1. Customer가 앱(웹)을 종료한다.  
+  
+#### Quality requirement:  
+>1. "noticeSeat"기능을 통해 최신 좌석 정보를 보유해야한다.  
+>2. UI로 나타내어진 좌석 배치도가 실제 시설의 좌석 배치와 완전히 일치해야한다.  
+  
+## Scenario  
+
 
 
 ## 🤝역할 분담
