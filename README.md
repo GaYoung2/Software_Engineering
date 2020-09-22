@@ -28,7 +28,7 @@
 
   
 ## Scenario  
-
+![image](https://user-images.githubusercontent.com/54730375/93865643-8ff1bb00-fd01-11ea-995e-8edfb4812d17.png)
 
 
 ## 🤝역할 분담
