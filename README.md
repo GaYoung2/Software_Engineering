@@ -23,7 +23,7 @@
 * 가게 내부에 좌석을 확인할 CCTV가 있어야 합니다.(추가적인 하드웨어)  
   
 ## Use case Diagram  
-![캡처](https://user-images.githubusercontent.com/54730375/93861515-98df8e00-fcfb-11ea-8dea-46482d25d029.PNG)  
+![캡처](https://user-images.githubusercontent.com/54730375/94366737-257fb700-0115-11eb-81c8-b13c03150265.PNG) 
   
 ## Use case Description  
   
