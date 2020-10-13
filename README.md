@@ -43,7 +43,7 @@ Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 �
 
 ## Class Diagram
 ## Object Diagram - 디저트카페 장소 찾기 Scenario
-
+![image](https://user-images.githubusercontent.com/62061144/95869970-eacd7e00-0da6-11eb-87d0-755455631eb3.png)
 작성자 : 김가영
 
 ## Scenario Diagram
