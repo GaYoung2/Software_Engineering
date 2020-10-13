@@ -23,7 +23,7 @@
 * 가게 내부에 좌석을 확인할 CCTV가 있어야 합니다.(추가적인 하드웨어)  
   
 ## Use case Diagram  
-![캡처](https://user-images.githubusercontent.com/54730375/94366737-257fb700-0115-11eb-81c8-b13c03150265.PNG) 
+![image](https://user-images.githubusercontent.com/62061144/95869995-f15bf580-0da6-11eb-9797-ceb19ada3b47.png)
   
 ## Use case Description  
   
@@ -41,6 +41,13 @@ Scenario   name | 디저트카페 장소 찾기
 Participating   actor instances | 길동: Customer
 Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 먹는 중이다. 그 후 여자친구가 평소에 가고 싶어 했던 유명한 디저트 카페를 가려고 계획 중이다.<br/>   2.길동은 STS ”가게찾기” 로 디저트 카페를 찾은 뒤 “좌석보기” 를 통해 디저트 카페의 좌석현황을 확인했다.<br/>   3.디저트 카페는 현재 모든 자리가 손님들로 채워져 있었고, 길동은   “빈자리알림받기” 기능을 통해 빈좌석 알림을 설정해 놓았다.<br/>   4.빈자리 알림이 받은 뒤 길동은 지정한 자리에 “좌석예약” 권한을 부여받은뒤 예약 후 디저트 카페로 출발하엿다.  
 
+## Class Diagram
+## Object Diagram - 디저트카페 장소 찾기 Scenario
+
+작성자 : 김가영
+
+## Scenario Diagram
+## Scenario Diagram
 
 
 ## 🤝역할 분담
