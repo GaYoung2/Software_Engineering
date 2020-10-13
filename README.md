@@ -46,8 +46,12 @@ Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 �
 ![image](https://user-images.githubusercontent.com/62061144/95869970-eacd7e00-0da6-11eb-87d0-755455631eb3.png)
 작성자 : 김가영
 
-## Scenario Diagram
-## Scenario Diagram
+## Scenario Diagram - showEmptySeat
+![image](https://user-images.githubusercontent.com/46666296/95870480-7e9f4a00-0da7-11eb-91c9-3f1d95df7dbe.png)
+작성자 : 
+## Scenario Diagram - chooseSeat
+![image](https://user-images.githubusercontent.com/46666296/95870553-95de3780-0da7-11eb-835d-bee4f33a6777.png)
+작성자 : 서우빈
 
 
 ## 🤝역할 분담
