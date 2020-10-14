@@ -42,7 +42,7 @@ Participating   actor instances | 길동: Customer
 Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 먹는 중이다. 그 후 여자친구가 평소에 가고 싶어 했던 유명한 디저트 카페를 가려고 계획 중이다.<br/>   2.길동은 STS ”가게찾기” 로 디저트 카페를 찾은 뒤 “좌석보기” 를 통해 디저트 카페의 좌석현황을 확인했다.<br/>   3.디저트 카페는 현재 모든 자리가 손님들로 채워져 있었고, 길동은   “빈자리알림받기” 기능을 통해 빈좌석 알림을 설정해 놓았다.<br/>   4.빈자리 알림이 받은 뒤 길동은 지정한 자리에 “좌석예약” 권한을 부여받은뒤 예약 후 디저트 카페로 출발하엿다.  
 
 ## Class Diagram  
-![class_Diagram2](https://user-images.githubusercontent.com/54730375/95870677-bdcd9b00-0da7-11eb-9661-58ace909b2d4.PNG)  
+![classss](https://user-images.githubusercontent.com/54730375/95938666-4df5f980-0e15-11eb-8c2f-5018563a4be6.PNG)   
 작성자 : 전종원
 ## Object Diagram - 디저트카페 장소 찾기 Scenario
 ![image](https://user-images.githubusercontent.com/62061144/95937108-fbffa480-0e11-11eb-9346-1d1d5f362a45.png)
