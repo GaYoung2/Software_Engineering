@@ -24,7 +24,7 @@
   
 ## Use case Diagram  
 ![image](https://user-images.githubusercontent.com/62061144/95869995-f15bf580-0da6-11eb-9797-ceb19ada3b47.png)
-작성자 : 
+작성자 : 김가영
 ## Use case Description  
   
 Use case name | ShowEmptySeat
