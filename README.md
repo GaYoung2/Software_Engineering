@@ -57,6 +57,11 @@ Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 �
 
 작성자 : 서우빈  
 
+## Design Goal
+1. Responsibility
+2. Expensibility
+3. Memory
+
 ## Component Diagram
 ![Component_Diagram](https://user-images.githubusercontent.com/62061144/100607368-34215f00-334e-11eb-8549-4b3de1d94d05.jpg)
 
