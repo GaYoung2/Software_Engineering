@@ -72,7 +72,7 @@ Flow   of events | 1.길동은 여자친구와 2주년 기념일로 점심을 �
 작성자 : 강승환, 서우빈
 
 ## Deployment Diagram
-![image](https://user-images.githubusercontent.com/62061144/102999070-ba0a8180-456b-11eb-8857-e61c52f0e4bf.png)
+![image](https://user-images.githubusercontent.com/62061144/102999338-2a190780-456c-11eb-9fc2-81eefb237415.png)
 
 작성자 : 전종원, 김가영
 
